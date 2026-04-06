@@ -1,0 +1,1 @@
+import{s as e}from"./index-_I6d_a-Q.js";var t={success:t=>e.success(t),error:t=>e.error(t),warning:t=>e.warning(t),info:t=>e.info(t)};export{t};

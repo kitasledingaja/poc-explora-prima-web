@@ -1,0 +1,1 @@
+import{X as e}from"./Typography-CtfGDpb8.js";import{f as t}from"./index-_I6d_a-Q.js";var n=e();function r(e){return(0,n.jsx)(t,{...e})}export{r as t};

@@ -1,0 +1,1 @@
+import{N as e,P as t}from"./Typography-CtfGDpb8.js";function n(e){return t(`MuiListItemText`,e)}var r=e(`MuiListItemText`,[`root`,`multiline`,`dense`,`inset`,`primary`,`secondary`]);function i(e){return t(`MuiListItemIcon`,e)}var a=e(`MuiListItemIcon`,[`root`,`alignItemsFlexStart`]);export{r as i,a as n,n as r,i as t};

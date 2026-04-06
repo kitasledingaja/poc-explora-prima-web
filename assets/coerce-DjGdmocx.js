@@ -1,0 +1,1 @@
+import{o as e,t}from"./schemas-CXYW_JPF.js";function n(n){return e(t,n)}export{n as t};

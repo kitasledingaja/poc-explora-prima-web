@@ -1,0 +1,1 @@
+import{X as e}from"./Typography-CtfGDpb8.js";import{t}from"./createSvgIcon-Bfafa2yc.js";var n=t((0,e().jsx)(`path`,{d:`M10 8.64 15.27 12 10 15.36zM8 5v14l11-7z`}),`PlayArrowOutlined`);export{n as t};
